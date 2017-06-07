@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="adapter-agera-2.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/adapter-agera-2.1.0.aar/bf1fe8d88e2e24fadc968680afeda2cd/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/adapter-agera-2.1.0.aar/bf1fe8d88e2e24fadc968680afeda2cd/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.drakeet.retrofit2/adapter-agera/2.1.0/1cf7e73483c4a1c9603540ebcfd9ae76679e3069/adapter-agera-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
